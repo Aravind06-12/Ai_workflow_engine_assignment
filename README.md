@@ -34,7 +34,9 @@ Steps implemented:
 5. Loop until `quality_score >= threshold`
 
 ---
+## Folder Structure
 
+```
 Ai_workflow_engine_assignment/
 │
 ├── app/
@@ -53,5 +55,5 @@ Ai_workflow_engine_assignment/
 │
 ├── requirements.txt
 └── README.md
+```
 
----
