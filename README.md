@@ -31,7 +31,7 @@ Steps implemented:
 2. Check complexity  
 3. Detect basic issues  
 4. Suggest improvements  
-5. Loop until `quality_score >= threshold`  
+5. Loop until `quality_score >= threshold`
 
 ---
 
@@ -54,3 +54,4 @@ Ai_workflow_engine_assignment/
 ├── requirements.txt
 └── README.md
 
+---
